@@ -4,7 +4,7 @@ from yt_dlp import YoutubeDL
 import os
 import logging
 
-TOKEN = '6767447234:AAHODYTwpqlNl0mbeGLK9qAtgKVHfHC0e40'
+TOKEN = 'Your TOKEN'
 DOWNLOAD_FOLDER = 'downloads'  # Specify your download folder
 
 if not os.path.exists(DOWNLOAD_FOLDER):
